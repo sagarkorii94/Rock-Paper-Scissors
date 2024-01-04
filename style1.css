@@ -1,0 +1,25 @@
+
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+}
+.row,.row1,.row2,.row3{
+    margin:8px 0;
+    text-align:left;
+    text-align: center;
+}
+.button{
+    text-align: center;
+    margin-left: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.input{
+    margin-bottom: 20px;
+    border: solid black;
+    border-radius: 4px;
+    padding-inline: 40px;
+
+
+}
